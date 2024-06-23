@@ -1,14 +1,14 @@
 - type: reaction
-  id: Dylovene
+  id: Psionium
   reactants:
-    Silicon:
-      amount: 1
-    Nitrogen:
-      amount: 1
     Potassium:
       amount: 1
+    Water:
+      amount: 1
+    conditions:
+      reagent-container: human
   products:
-    Dylovene: 3
+    Psionium: 3
 
 - type: reaction
   id: Ethylredoxrazine
